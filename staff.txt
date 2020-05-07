@@ -1,14 +1,1 @@
-user = [
-{
-'username':adams,
-'password':adams123,
-'email':adamsgreat@gmail.com,
-'full name':Adams Gideon
-},
-{
-'username':grace,
-'password':grace123,
-'email':gracekim@gmail.com,
-'full name':Grace Ada
-}
-]
+'adams','adams123','adamsgreat@gmail.com','Adams Gideon','grace','grace123','gracekim@gmail.com','Grace Ada'
